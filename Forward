@@ -21,3 +21,5 @@ ns2             IN A            192.168.1.10
 
 @               IN A            192.168.1.10
 www             IN A            192.168.1.10
+ictmi.test      IN MX           10 zlataninspace.ictmi.test
+zlataninspace   IN A            192.168.1.10
